@@ -1,0 +1,29 @@
+nav{
+    background-color: bisque;
+    font-size: 25px;
+    padding: 1%;
+}
+.navigate_links {
+    list-style: none;
+}
+nav li{
+    display: inline-block;
+}
+img{
+    margin: 0%;
+}
+
+/*.navigate_links li{
+    padding: 0px 5px;
+    display: inline-block;*/
+
+a{
+    padding: 0px 20px; 
+}
+.three{
+    text-align: left;
+    width:15%;
+}
+button{
+    font-size: 30px;
+}
